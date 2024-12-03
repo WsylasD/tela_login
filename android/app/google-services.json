@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "657750711510",
+    "project_id": "tela-login-c2504",
+    "storage_bucket": "tela-login-c2504.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657750711510:android:c7483b2210ce274a89bd77",
+        "android_client_info": {
+          "package_name": "com.example.tela_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Pq3nHdA0ePk-FXHubwos2d_J2UB-0GQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
